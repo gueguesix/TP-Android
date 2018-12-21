@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "173128605550",
+    "firebase_url": "https://tpandroid18.firebaseio.com",
+    "project_id": "tpandroid18",
+    "storage_bucket": "tpandroid18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173128605550:android:f1026d4fd1ed11ca",
+        "android_client_info": {
+          "package_name": "com.android.florent.tpandroid18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173128605550-dhbvqdp086m77q90o9mkllm2m4hioesu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UJh_ba-xl3djpqkg7XWycICXcvVUSGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
